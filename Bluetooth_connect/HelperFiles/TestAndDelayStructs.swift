@@ -6,6 +6,8 @@
 //  Copyright © 2020 neel shah. All rights reserved.
 //
 
+//Xunhao: get to look at this later when reach the function is called
+
 protocol Config {
     var name:String? {get set}
     var hour: Int {get set}
